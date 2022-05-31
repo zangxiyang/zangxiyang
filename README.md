@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 >Hi there 👋</h3>
 
 <p >
- 😎 I'm a front and backend software engineer;
+ 😎 I'm a frontend and backend software engineer;
 </p>
 
 <div>
